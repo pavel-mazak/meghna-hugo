@@ -7,7 +7,7 @@ portfolio:
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - design
+    - Zariadenia pre logistiku
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Sound system
