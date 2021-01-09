@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "mazak@pivotqari.sk"
 image = ""
 title = "Pavel Mazak"
