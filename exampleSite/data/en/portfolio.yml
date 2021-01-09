@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Products
   portfolio_item:
-  - name: Zariadenia pre logistiku
+  - name: JIT/JIS kontajnery
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
