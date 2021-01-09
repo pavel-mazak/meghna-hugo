@@ -2,8 +2,8 @@
 author = "Pavel Mazak"
 date = 2020-12-31T23:00:00Z
 description = "news"
-image = ""
-image_webp = ""
+image = "/images/blog/blog-post-3.jpg"
+image_webp = "/images/blog/blog-post-3.jpg"
 title = "Novinky v roku 2021"
 
 +++
