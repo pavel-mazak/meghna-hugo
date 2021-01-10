@@ -1,7 +1,7 @@
 ---
 banner:
-  enable: false
-  bg_image_webp: images/backgrounds/laser.jpg
+  enable: true
+  bg_image_webp: images/backgrounds/laser.webp
   bg_image: images/backgrounds/laser.jpg
   icon: ''
   title: Let things move safely ...
