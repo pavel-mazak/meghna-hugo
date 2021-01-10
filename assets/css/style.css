@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
-  color: #737f8a;
+  background-color: #042046;
+  color: #6393BE;
 }
 
 body {
-  background-color: #353b43;
+  background-color: #042046;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #6393BE;
   -webkit-font-smoothing: antialiased;
 }
 
