@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: images/backgrounds/laser.jpg
   bg_image: images/backgrounds/laser.jpg
   icon: ''

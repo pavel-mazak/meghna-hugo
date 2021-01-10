@@ -14,30 +14,25 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
 name = "products"
 pre = "#"
 url = "portfolio"
-weight = 3
+weight = "1"
 [[Languages.en.menu.main]]
 name = "services"
 pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
+name = "about"
+pre = "#"
+url = "about"
+weight = "3"
+[[Languages.en.menu.main]]
 name = "team"
 pre = "#"
 url = "team"
 weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
