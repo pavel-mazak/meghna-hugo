@@ -960,6 +960,7 @@ a:hover {
 ==================================================================*/
 .service-block {
   padding: 60px 20px;
+  background: #0A0B38
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
