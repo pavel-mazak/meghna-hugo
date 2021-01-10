@@ -4,8 +4,8 @@ portfolio:
   title: Our Products
   portfolio_item:
   - name: JIT/JIS kontajnery
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/Logistika/1. JIS kontajnery/JIS rack front.jpg
+    image_webp: images/portfolio/Logistika/1. JIS kontajnery/JIS rack front.webp
     categories:
     - Zariadenia pre logistiku
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
