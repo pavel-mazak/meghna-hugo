@@ -17,7 +17,7 @@ weight = 1
 name = "products"
 pre = "#"
 url = "portfolio"
-weight = 3
+weight = "1"
 [[Languages.en.menu.main]]
 name = "services"
 pre = "#"
