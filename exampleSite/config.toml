@@ -27,7 +27,7 @@ weight = 2
 name = "about"
 pre = "#"
 url = "about"
-weight = 1
+weight = "3"
 [[Languages.en.menu.main]]
 name = "team"
 pre = "#"
