@@ -2,7 +2,7 @@
 funfacts:
   enable: true
   bg_image: images/backgrounds/welding.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image_webp: images/backgrounds/welding.jpg
   counter_item:
   - title: Happy Clients
     icon: ti-face-smile
